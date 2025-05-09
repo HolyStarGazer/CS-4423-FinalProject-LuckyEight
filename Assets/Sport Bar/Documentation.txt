@@ -1,0 +1,6 @@
+Sport bar
+This package contains 70 high quality and optimised meshes with realistic textures, 
+some of the models have detachable parts, also few models use the same material to reduce draw calls.
+These assets will help you create bar levels in your games.
+
+If you have pink materials you will need settings folder from standart HDRP project

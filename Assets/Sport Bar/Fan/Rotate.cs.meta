@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f43a592ca4a10a341a4fa1ac22244b0e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 156265
+  packageName: Sport Bar
+  packageVersion: 1.0
+  assetPath: Assets/Sport Bar/Fan/Rotate.cs
+  uploadId: 335006
